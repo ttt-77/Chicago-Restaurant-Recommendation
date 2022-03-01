@@ -6,7 +6,7 @@ Members:<br>
   Chang Li(changli9@illinois.edu)<br>
   Yingjie Zhao(yz82@illinois.edu)<br>
 Captain: Tengjun Jin <br>
-project title: Chicago Takeaway Recommendation
+project title: Chicago Restaurant Recommendation
 
 Project summary
 ================================
