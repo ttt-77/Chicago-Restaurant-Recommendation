@@ -14,7 +14,7 @@ Project Description:
 https://github.com/ttt-77/Chicago-Restaurant-Recommendation/blob/main/ProjectDescription.md
 
 Conceptual Design:  
-https://github.com/uiuc-fa21-cs411/404-not-found/blob/main/ConceptualDesign.md
+https://github.com/ttt-77/Chicago-Restaurant-Recommendation/blob/main/ConceptualDesign.md
 
 System Demo URL
 =============================
